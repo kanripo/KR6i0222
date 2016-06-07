@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:18.625595
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:57
 #+TITLE: 佛說魔逆經
 #+PROPERTY: CBETA_ID T15n0589
 #+PROPERTY: ID KR6i0222
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 589
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0222_T_000-0112a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0222_T_001-0112a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.589¶
-
- 《佛說魔逆經》¶
+No. 589¶
+《佛說魔逆經》¶
 ¶
 西晉三藏竺法護譯¶
 
@@ -388,8 +387,7 @@ No.589¶
 
 答曰：「天子！如來至真¶
 善權方便，因時頒宣文字之說。又其慧者無¶
-有文字，譬如不從水中而生火矣，鑽木¶
-求火及照陽燧乃出火耳！如來若此，威神¶
+有文字，譬如不從水中而生火矣，鑽木求火及照陽燧乃出火耳！如來若此，威神¶
 聖旨道慧無邊，廣分別說本無之慧，無有¶
 能知如來聖慧。如來聖慧燒諸愚癡闇昧草¶
 木，令不復生。彼則何謂燒諸愚癡闇昧草木？¶
